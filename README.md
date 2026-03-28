@@ -185,11 +185,13 @@ npm start
 
 ---
 
-# Author
+## 👤 Author
 
-Muneeb Ahmed
+**Muneeb Ahmed**
 
-LinkedIn: https://www.linkedin.com/in/muneebahmed18/
+LinkedIn: https://www.linkedin.com/in/muneebahmed18/ 
+
+MS Data Science Student
 
 ---
 
